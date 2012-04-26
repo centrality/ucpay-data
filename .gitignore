@@ -2,3 +2,5 @@
 ucpay.sqlite
 *.swo
 *.swp
+env
+*.pyc
